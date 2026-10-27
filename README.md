@@ -5,7 +5,9 @@
   <img src="https://img.shields.io/badge/Google_Cloud-000000?style=flat-square&logo=googlecloud&logoColor=F2A945" />
   <img src="https://img.shields.io/badge/Azure-000000?style=flat-square&logo=microsoftazure&logoColor=F2A945" />
   <img src="https://img.shields.io/badge/Oracle_Cloud-000000?style=flat-square&logo=oracle&logoColor=F2A945" />
-  <img src="https://img.shields.io/badge/FinOps-F2A945?style=flat-square" />
+  <img src="https://img.shields.io/badge/Anthropic-F2A945?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenAI-F2A945?style=flat-square" />
+  <img src="https://img.shields.io/badge/Gemini-F2A945?style=flat-square" />
 </p>
 
 ---
